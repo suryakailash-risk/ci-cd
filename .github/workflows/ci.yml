@@ -27,6 +27,7 @@ jobs:
       - name: Logging to Linux Maching
         run: |
           ssh -T root@62.72.27.131
+          yes
       - name: Entering the pass for tempory
         run: |
           v6mcSijHt#Ox8E3nrY=Z
